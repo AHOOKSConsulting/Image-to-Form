@@ -22,3 +22,12 @@ coverage.xml
 .DS_Store
 node_modules
 *.md
+package.json
+package-lock.json
+vite.config.js
+index.html
+manifest.json
+sw.js
+public/
+src/
+dist/
